@@ -12,6 +12,8 @@ The Stock Exchange, for your Hackathon Stickers.
 
 - `static`: Polymer Frontend
 
+![Screenshot](https://raw.githubusercontent.com/joseph-zhong/PennApps2016/master/stickerexchange.jpg)
+
 ### Backend
 - `rest.py`: Flask API to connect our Postgresql DB
   - `custom_json_encoder.py`: Custom JSON encoder to handle parsing decimal values
